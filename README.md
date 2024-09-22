@@ -2,7 +2,7 @@
   <h1>Sistema de leitor</h1>
 </div>
 
-
+![Preview-Screens](https://github.com/mauricio071/leitor_aluno/blob/master/cadastro-leitor.png)
 
 ## 📝 Sobre o projeto
 
