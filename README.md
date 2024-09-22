@@ -7,7 +7,6 @@
 Esta aplicação, desenvolvida em Java, oferece funcionalidades para o gerenciamento de usuários, como adição, edição, exclusão e listagem. As informações são armazenadas em um banco de dados MySQL, garantindo a persistência dos dados.
 
 ## 🛠 Tecnologias utilizadas
-Tecnologias utilizadas neste projeto:
 
 -   **Java** - Linguagem de programação
 -   **MySql** - Banco de dados relacional
