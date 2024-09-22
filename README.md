@@ -21,5 +21,5 @@ Para instalar e executar o projeto, basta clonar este repositório na sua máqui
 Clonando o Repositório
 
 ```bash
-$ git clone https://github.com/mauricio071/cadastroLeitor_aluno_professor_e_adminitrativa
+$ git clone https://github.com/mauricio071/Leitor-aluno
 ```
