@@ -2,7 +2,7 @@
   <h1>Sistema de leitor</h1>
 </div>
 
-![Preview-Screens](https://github.com/mauricio071/Leitor-aluno/blob/master/cadastro-leitor.png)
+![Preview-Screens](https://github.com/mauricio071/Sistema-de-leitor/blob/master/cadastro-leitor.png)
 
 ## 📝 Sobre o projeto
 
@@ -21,5 +21,5 @@ Para instalar e executar o projeto, basta clonar este repositório na sua máqui
 Clonando o Repositório
 
 ```bash
-$ git clone https://github.com/mauricio071/Leitor-aluno
+$ git clone https://github.com/mauricio071/Sistema-de-leitor
 ```
