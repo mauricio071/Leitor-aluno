@@ -13,7 +13,7 @@ Esta aplicação, desenvolvida em Java, oferece funcionalidades para o gerenciam
 
 ## 🖥️ Como configurar o projeto
 
-Siga os passos abaixo para instalar e executar o projeto em sua máquina:
+Siga os passos abaixo para instalar e executar o projeto em seu ambiente local:
 
 ### 1. Clone o repositório:
 
