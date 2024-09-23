@@ -1,6 +1,8 @@
 <div align="center"> <h1>Sistema de Leitor</h1> </div>
 
-![Preview-Screens](https://github.com/mauricio071/Sistema-de-leitor/blob/master/cadastro-leitor.png)
+<div align="center">
+  <img src="./cadastro-leitor.png" alt="Preview-Screens-1" width="550" >
+</div>
 
 ## 📝 Sobre o projeto
 
