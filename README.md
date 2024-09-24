@@ -1,12 +1,25 @@
 <div align="center"> <h1>Sistema de Leitor</h1> </div>
 
+<p align="center">
+  <img alt="Github Top Language" src="https://img.shields.io/github/languages/top/mauricio071/Sistema-de-leitor?color=00bfa6">
+  <img width="1" />
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/mauricio071/Sistema-de-leitor?color=00bfa6">
+</p>
+
 <div align="center">
   <img src="./cadastro-leitor.png" alt="Preview-Screens-1" width="550" >
 </div>
 
 ## 📝 Sobre o projeto
 
-Esta aplicação, desenvolvida em Java, oferece funcionalidades para o gerenciamento de usuários, como adição, edição, exclusão e listagem. As informações são armazenadas em um banco de dados MySQL, garantindo a persistência dos dados.
+Esta aplicação, desenvolvida em Java, permite:
+
+- Adicionar novos usuários ao sistema.
+- Editar informações de usuários existentes.
+- Excluir usuários.
+- Listar todos os usuários cadastrados.
+  
+Os dados são armazenados em um banco de dados SQL, garantindo a persistência das informações.
 
 ## 🛠 Tecnologias utilizadas
 
